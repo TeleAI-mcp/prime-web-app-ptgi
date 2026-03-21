@@ -1,2 +1,3 @@
-# prime-web-app-ptgi
-A web application for modern development workflows
+# Prime Web App Ptgi
+
+A web application for modern development workflows.
